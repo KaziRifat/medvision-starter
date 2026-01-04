@@ -1,4 +1,4 @@
-# MedVision-Starter: Medical Image Classification (Beginner)
+# MedVision-Starter: Medical Image Classification
 
 A clean beginner-friendly **PyTorch** repo for image classification (binary or multi-class).
 Works with any dataset arranged in **ImageFolder** format:
